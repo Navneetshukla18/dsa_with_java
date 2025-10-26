@@ -1,1 +1,2 @@
-the practice part during learning of my dsa 
+# DSA Practice Codes
+This repository contains my daily DSA practice problems and solutions written in Java.
